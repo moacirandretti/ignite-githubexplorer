@@ -1,4 +1,3 @@
 import React from 'react'
-
-export const App = () => <h1>Hello Andretti!</h1>
+import {App} from './App'
 
